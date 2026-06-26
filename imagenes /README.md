@@ -1,1 +1,1 @@
-carpeta para almacenar imagenes de mi app
+carpeta para almacenar las imagenes de mi app
